@@ -40,3 +40,8 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 }
+
+.btn-primary {
+	background-color: #fb6107;
+	border: #fb6107;
+}
