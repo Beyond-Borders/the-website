@@ -45,3 +45,7 @@ footer a:hover {
 	background-color: #fb6107;
 	border: #fb6107;
 }
+
+.btn-primary:active {
+	background-color: #3083dc;
+  }
