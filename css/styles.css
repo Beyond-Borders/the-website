@@ -12,14 +12,21 @@ body {
 
 h1 {
 	font-family: "verveine", sans-serif;
-	font-weight: 600;
+	font-weight: 1000;
 	font-style: normal;
+}
+
+h3 {
+	font-family: "verveine", sans-serif;
+	font-weight: 8000;
+	font-style: normal;
+	font-size: 50px;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #7DDE92;
 }
 
 /* Changing the background color for the navigation bar */
