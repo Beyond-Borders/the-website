@@ -66,5 +66,9 @@ footer a:hover {
 }
 
 .btn-primary:active {
-	background-color: #3083dc;
+	background-color: #7DDE92;
   }
+
+.btn-primary:hover {
+	background-color: #7DDE92;
+}
